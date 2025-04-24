@@ -1,9 +1,5 @@
-# practice
+# практика
 
-Here is going to be my nsu practice project. The goal is to make a neural network on python which is going to be used in one research.
-The goal of research is to identify signs of depression using facial videos of the participants while they solve some tasks. 
-As i understood, they have to look at some images, recognize what is depicted on those images and press the right button.
-
-As i said, my goal is to make a nn that will answer these questions:
-1. does a participant make pauses while solving the task and is he successfull in solving it
-2. is a participant prone to have a depression
+Здесь находятся все материалы по работе, которую я выполила в рамках учебной практики 
+1. В папке hiral_analysis находятся материалы по практике, выполненной в 5 семестре. Задача была реализовать алгоритм хирального анализа лиц на изображениях и видео с помощью библиотеки py-feat
+2. Папке video_classification содержит материалы по работе с 6-го семестра. Цель - обучить нейросеть для распознавания трех типов лицевых видео (человек смотрит на пустой экран/на фото другого человека/на свое фото). Данные собирала так же с помощью py-feat 
